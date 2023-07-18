@@ -16,9 +16,9 @@ import {
   TableContainer,
   Flex,
   Box,
+  Button,
+  Select,
 } from "@chakra-ui/react";
-import { Button } from "@chakra-ui/react";
-import { Select } from "@chakra-ui/react";
 
 type DataTableHeaderItem = {
   id: string;
